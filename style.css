@@ -20,6 +20,8 @@
 .cabecalho > a {
     color: #FFFF;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    outline: none;
+    text-decoration: none;
     position: static;
 }
 .cabecalho {

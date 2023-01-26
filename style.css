@@ -17,7 +17,7 @@
     color: aliceblue;
 }
 
-.cabecalho{
+.cabecalho > a {
     color: #FFFF;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     position: static;

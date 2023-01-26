@@ -1,0 +1,10 @@
+#span-a-cima {
+    margin: 0vh;
+    padding: 0vh;
+    border: 0vh;
+}
+#span-a-cima p {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10vw;
+}

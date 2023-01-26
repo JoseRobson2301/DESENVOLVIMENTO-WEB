@@ -1,11 +1,17 @@
-#span-a-cima {
-    margin: 1vh;
-    padding: 1vh;
-    border: 1vh;
-    background-color: aqua;
+*{
+    margin: 0px;
 }
-#span-a-cima > p {
+
+.span-a-cima {
+    margin: 1px;
+    padding: 1px;
+    border: 1px;
+    background-color: aqua;
+    margin: 0px;
+}
+.span-a-cima > p {
     text-align: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 10vw;
+    padding: 0.1px;
+    margin: 0px;
+    
 }

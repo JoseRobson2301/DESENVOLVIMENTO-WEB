@@ -2,7 +2,7 @@
 
 * {
   margin: 0px;
-  font-family: 'Josefin Sans'
+  font-family: 'Josefin Sans';
 }
 
 #comentario-a-cima {
@@ -20,6 +20,7 @@
   color: white;
   margin-left: 30vh;
   text-decoration: none;
+  background-attachment: fixed;
   }
 
 #corpo-da-pagina {

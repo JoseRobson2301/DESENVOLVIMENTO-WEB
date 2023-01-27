@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&family=Gloria+Hallelujah&family=Josefin+Sans&family=Noto+Sans+Symbols+2&family=Special+Elite&display=swap');
+
+
 * {
   margin: 0px;
+  font-family: 'Josefin Sans'
 }
 
 #comentario-a-cima {

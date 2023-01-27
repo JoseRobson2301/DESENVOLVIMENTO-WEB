@@ -25,7 +25,10 @@
 #corpo-da-pagina {
   color: #fff;
   text-align: center;
-
+  background-image: url(fundo-do-site.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 .ponto-exclusivo {
   background-color: #11293a;
@@ -44,9 +47,9 @@
   border: #498eff solid 1vh;
   background-color: #498eff;
   cursor: pointer;
-  border: #11263ac4 solid 0.7vh;
+  border: #11263a5c solid 0.7vh;
 }
 img {
   border-radius: 2vh;
-  border: #11293a solid 1vh;
+  border: #11293a82 solid 1vh;
 }

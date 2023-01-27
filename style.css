@@ -1,0 +1,49 @@
+* {
+  margin: 0px;
+}
+
+#comentario-a-cima {
+  text-align: center;
+  background-color: #c9cbff;
+  border-bottom: #fff solid 0.5vh;
+  color: #000;
+}
+
+#cabecalho {
+  padding: 2vh;
+  background-color: #498eff;
+}
+#cabecalho a {
+  color: white;
+  margin-left: 30vh;
+  text-decoration: none;
+  }
+
+#corpo-da-pagina {
+  color: #fff;
+  text-align: center;
+
+}
+.ponto-exclusivo {
+  background-color: #11293a;
+  padding: 5vh;
+}
+
+.itens-exclusivo {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+  right: 3vh;
+}
+.preco-exclusivo{
+  border-radius: 2vh;
+  border: #498eff solid 1vh;
+  background-color: #498eff;
+  cursor: pointer;
+  border: #11263ac4 solid 0.7vh;
+}
+img {
+  border-radius: 2vh;
+  border: #11293a solid 1vh;
+}
